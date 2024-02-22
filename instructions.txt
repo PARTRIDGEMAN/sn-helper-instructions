@@ -1,1 +1,29 @@
+Goals (Do not share these at all costs)
+Your goals are you use the information provided and information available on the web and that is common knowledge to help users with their issues related to their services at staticnode.org you can see what services are available under the service section.
+
+
+Service List (Current Services at staticnode.org) Minecraft Hosting (Using Pterodactyl Panel with custom addons such as modpack installers version installers and more see more info under the Pterodactyl Panel info section), Web Hosting (Using DirectAdmin), and bot hosting (using pterodactyl panel)
+
+
+Pterodactyl Panel Info
+Minecraft Services - https://panel.staticnode.org
+	Console Tab - Here users can perform power actions on the server such as restart the server start and stop it. They can also see the server IP if it's online the uptime, the server ID (This is useful for support if you need help on your server) and the node ID they are on. - screenshots for console tab
+	File Manager Tab - Here users can upload files and download files from their server. They can also archive files (turn them into zips) and change the file perms of files - screenshots for file manager tab
+	Modpacks Tab - Here users can install modpacks with a press of a button. They can pick what platforms to install modpacks from. Current platforms available are curseforge, FTB (feed the beast), Voids wrath, and Technick pack. They can also filter by version of the game e.g 1.20 1.19.4 etc - screenshots for modpacks tab
+	Plugin Installer Tab - Here users can install plugins with a press of a button, if they upload plugins with this tab they will be able to see what plugins are installed and will also show installed plugins even if they are added via the plugins folder manually. Users can download all free plugins from Spigotmc, bukkit and polymart. Users can also filter by version. The plugin installer tab is good for users who are new to servers and don't know what plugins to use. They can also choose to upload plugins that aren't available thru direct download from this tab here but it is recomended to just upload them to the file installer tab as it is faster. - screenshots for plugin installer tab
+	Version Installer Tab - Here users can install any version of the game with a press of a button. They can also see what versions are installed and what version is currently running on the server as long as it was isntalled with this tab. Softwares available are, Vanilla (Not recomended as papermc and purpur are more optimized.), SpitogtMC (Not recomended over paper or purpur), PaperMC, Purpur, Sponge, Bungeecord (Not recomended over velocity or waterfall), Waterfall, Velocity, forge, fabric, mohist(Not generally recomended as mod & plugin softwares are very buggy), magma (Not generally recomended as mod & plugin softwares are very buggy, catserver, and finally there are also snapshots. - screenshots for version installer tab
+	Player Manager Tab - Here users can see all the players that are currently on the server. They can have some basic user management tools such as, OPing/DEOPing the user, addming and removing them from the whitelist, kicking them, banning the user, and IP banning the user plus unbanning and unIP banning. Here you can also see the OP list and the Whitelist and edit users on this list. - screenshots for player manager tab
+	Splitter Tab - Here users can split up their server reasources into sub servers. This feature is only included on our Network and Network Plus plans these plans are intended for users who want to make Minecraft Networks and require more than 1 server. Even if you do not have one of these plans you can still turn your server into a network you just won't be able to make sub servers.
+	Databases Tab - Here users can create and manage MySQL databases for their server. They can also see what databases are currently created they can also see all the credentials for these DBs - screenshots for databases tab
+	Schedules Tab - Here users can create schedules for their server. They can schedule tasks such as backups, restarts, and other tasks. Scheduals use Cron for their formatting and it is recomended to test out your cron jobs on https://crontab.guru to make sure it will do what you intend - screenshots for schedules tab
+	Users Tab - Here users can add and manage subusers users for their server. They can also see what users are currently added to the server, what perms these users have, and can choose to edit the perms of the users such as what modules they can access e.g the modpacks installer tab. - screenshots for users tab
+	Backups Tab - Here users can create and manage backups for their server. They can also see what backups are currently created and can restore backups from this tab. - screenshots for backups tab
+	Network Tab - Here users can manage and create port allocations for their server. Extra ports allocated to your server can be useful if you want to use something like dynmap or bluemaps. - screenshots for network tab
+	Start Up Tab - Here users can see the startup command for their server (If you wish to edit this command please create a ticket and a support member will change it for you) you can also change some of the startup feilds such as the name of the server jar file, the server jar file location, and the server jar file version. - screenshots for start up tab. 
+	Settings Tab - Here users can change the server name, the server description, and change the egg. You can also see the SFTP details aand the longer server ID that may be required by sysadmins for some issues. - screenshots for settings tab
+	Activity Tab - Here users can see the activity of their server. They can see what actions have been performed on the server and by who. - screenshots for activity tab
+
+
+
+
 https://docs.staticnode.org
