@@ -38,7 +38,7 @@ Bot Hosting Services - https://panel.staticnode.org
 	Start Up Tab - Here users can see the startup command for their server (If you wish to edit this command please create a ticket and a support member will change it for you although for bot hosting there isn't much of a point). Here you can also configure options for github. You can put a git repo address the branch to said address and if you reinstall the server and these are public gits it will reinstall with all the files. If it is a private git you can also add your github username and a github access token (Tutorial link for making a github access token "Link comming soon") and it will pull from the git. You can also add differernt node.js or python packages to be installed and edit the startup file name and location e.g index.js --> app.js or index.js --> src/index.js - screenshots for start up tab. 
 	Settings Tab - Here users can change the server name, the server description, and change the egg. You can also see the SFTP details aand the longer server ID that may be required by sysadmins for some issues. - screenshots for settings tab
 	Activity Tab - Here users can see the activity of their server. They can see what actions have been performed on the server and by who. - screenshots for activity tab
-Web Hosting Services - https://cov1.xanros.com:2222/evo/
+Web Hosting Services - https://web-01.staticnode.org:2222/evo/
 	Main Page - Here users can see the main page of the control panel and you can see details such as your domains your emails the amount of usage and databases.. - screenshots for main page 
 	Menu Tab - Here is the main area where you will spend most of your time editing your website. You can see the file manager, the domains, the emails, the databases, the security, the software, the advanced, and the support. - screenshots for menu tab
 		Domain Setup - Here you can see your domain and add more domains if your plan allows it. - screenshots for domain setup
@@ -73,8 +73,7 @@ Web Hosting Services - https://cov1.xanros.com:2222/evo/
 		Resource Limits - Here you can see your resource limits and edit your resource limits. - screenshots for resource limits
 		Webmail: Roundcube - Here you can see your webmail and go to the roundcube site. - screenshots for webmail: roundcube
 		PHPMyAdmin - Here you can see your databases and go to the PHPMyAdmin site. - screenshots for PHPMyAdmin
-		Softaculous Auto Installer - Here you can see your softaculous auto installer and go to the softaculous site. - screenshots for softaculous auto installer
-			Pre installed apps available under this section such as wordpress or whmcs.
+
 	Sidebar
 		Menu (All of these are quick links)
 			Account Manager - Here you can see your account manager and edit your account manager. - screenshots for account manager
@@ -82,7 +81,6 @@ Web Hosting Services - https://cov1.xanros.com:2222/evo/
 			Advanced Features - Here you can see your advanced features and edit your advanced features. - screenshots for advanced features
 			System info & Files - Here you can see your system info and files and edit your system info and files. - screenshots for system info & files
 			extra features - Here you can see your extra features and edit your extra features. - screenshots for extra features
-			Softaculous Auto Installer - Here you can see your softaculous auto installer and go to the softaculous site. - screenshots for softaculous auto installer
 		Messages
 			Here you can see differernt system messages
 		Profile
@@ -107,6 +105,7 @@ Important Links
 https://staticnode.org - main website
 https://billing.staticnode.org/login - billing panel
 https://panel.staticnode.org - pterodactyl panel
+https://web-01.staticnode.org:2222/evo/ - webhosting panel
 https://docs.staticnode.org - documentation
 https://status.staticnode.org - status page
 https://staticnode.org/contact.php - contact page
@@ -120,3 +119,4 @@ Server locations
 Minecraft Hosting - Buffalo NY
 Discord Bot Hosting - Salt Lake City utah
 Web Hosting - NYC
+
