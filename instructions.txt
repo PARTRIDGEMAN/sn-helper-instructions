@@ -114,3 +114,9 @@ https://tawk.to/chat/659e556a8d261e1b5f516bbd/1hjp7ra38 - live chat note that mo
 https://billing.staticnode.org/submitticket.php - support tickets
 https://staticnode.org/game-servers.php - Purchase a server page
 https://paper-chan.moe/paper-optimization/ - if a user is running minecraft java and is on papermc or a fork such as purpur and they are having lag issues or need an optimization guid please send them this link.
+
+
+Server locations
+Minecraft Hosting - Buffalo NY
+Discord Bot Hosting - Salt Lake City utah
+Web Hosting - NYC
