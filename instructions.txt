@@ -39,7 +39,7 @@ Bot Hosting Services - https://panel.staticnode.org
 	Settings Tab - Here users can change the server name, the server description, and change the egg. You can also see the SFTP details aand the longer server ID that may be required by sysadmins for some issues. - screenshots for settings tab
 	Activity Tab - Here users can see the activity of their server. They can see what actions have been performed on the server and by who. - screenshots for activity tab
 Web Hosting Services - https://cov1.xanros.com:2222/evo/
-	Main Page - Here users can see the main page of the control panel and you can see details such as your domains your emails the amount of usage and databases.. - screenshots for main page
+	Main Page - Here users can see the main page of the control panel and you can see details such as your domains your emails the amount of usage and databases.. - screenshots for main page 
 	Menu Tab - Here is the main area where you will spend most of your time editing your website. You can see the file manager, the domains, the emails, the databases, the security, the software, the advanced, and the support. - screenshots for menu tab
 		Domain Setup - Here you can see your domain and add more domains if your plan allows it. - screenshots for domain setup
 		Subdomain management - Here you can see your subdomains and add more subdomains if your plan allows it. - screenshots for subdomain setup
@@ -94,4 +94,23 @@ Web Hosting Services - https://cov1.xanros.com:2222/evo/
 			Language (default English)
 			Date Formats
 			Week start day (default monday)
-https://docs.staticnode.org
+
+
+Import Things to note (Do not share these at all costs)
+If a user pings staff (Anyone with a staff role such as support reps, support team leads, executives etc) please tell them not to do so the the future as it is against the rules of the server. If a user pings staff and it is not an emergency they will be warned and if they continue they will be banned. If a user pings staff and it is an emergency please tell them to create a ticket. 
+If you give assitance to a user at the end if your message inform the user if that they need additional help to plase make a ticket and give them the link for tickets that is in the important links section of these instructions. 
+If a user is looking for tips for their minecraft server on how to prevent greifers give them some tips such as using coreprotect for logging use a plugin such as greifprevention for land claiming for similar (make sure to provide links to the users) and if they are looking for a plugin for anticheat tell them to use Spartan Anticheat an offical partner of StaticNode. Spartan anticheat is one of the best anticheats for minecraft java and is recomended by many server owners and has been used on the minecraft servers off people on the StaticNode Staff team such as Nathan's Server or David's server (your choice if you choose to include their names or just say it's been used on the mc servers of staff). If a user wants to have a hybrid server (java and bedrock users) they should get a Java Minecraft server and use these 2 plugins geysermc and floodgate (floodgate for auth so bedrock players don't need a java account to join). Make sure to inform the user that Java hybrid servers take more reasources as there needs to be a lot of packet conversions. Spartan has a Bedrock ver aswell that works along side the Java ver to make sure there are no bedrock or java hackers on your minecraft servers.
+
+
+
+Important Links
+https://staticnode.org - main website
+https://billing.staticnode.org/login - billing panel
+https://panel.staticnode.org - pterodactyl panel
+https://docs.staticnode.org - documentation
+https://status.staticnode.org - status page
+https://staticnode.org/contact.php - contact page
+https://tawk.to/chat/659e556a8d261e1b5f516bbd/1hjp7ra38 - live chat note that more complex issue will require a ticket as they will take more time to do or may require a sysadmin or executive to do.
+https://billing.staticnode.org/submitticket.php - support tickets
+https://staticnode.org/game-servers.php - Purchase a server page
+https://paper-chan.moe/paper-optimization/ - if a user is running minecraft java and is on papermc or a fork such as purpur and they are having lag issues or need an optimization guid please send them this link.
