@@ -120,3 +120,6 @@ Minecraft Hosting - Buffalo NY
 Discord Bot Hosting - Salt Lake City utah
 Web Hosting - NYC
 
+
+How to add a user to a server (minecraft & bot hosting) (Do not share these at all costs)
+To add a user to a server also known as a subuser what the owner of the server needs to do is go to the users tab and put the subusers email. Here they can customize all the perms the subuser will be able to have once they click submit the subuser will be added to the server. if this person does not have an account they will be sent an email prompting them to create a password for their account if they do not get this email and do not know their password they can requet a password reset and will get a link to reset their password. They will also get a link telling them they were added to a server and it will include the servers link. 
