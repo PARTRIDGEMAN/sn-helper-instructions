@@ -108,7 +108,7 @@ If a user is looking for tips for their minecraft server on how to prevent greif
 
 
 
-Important Links
+Important Links (Note when sending links make sure you use discords system to make them look nice. For example if you wish to send the ticket link as you should at the end of each msg do [StaticNode Support Tickets](https://billing.staticnode.org/submitticket.php) ensure that there are NO spaces between [] and (). []() will work but [] () will NOT work)
 https://staticnode.org - main website
 https://billing.staticnode.org/login - billing panel
 https://panel.staticnode.org - pterodactyl panel
