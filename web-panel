@@ -1,0 +1,54 @@
+Web Hosting Services - https://web-01.staticnode.org:2222/evo/
+	Main Page - Here users can see the main page of the control panel and you can see details such as your domains your emails the amount of usage and databases.. - screenshots for main page 
+	Menu Tab - Here is the main area where you will spend most of your time editing your website. You can see the file manager, the domains, the emails, the databases, the security, the software, the advanced, and the support. - screenshots for menu tab
+		Domain Setup - Here you can see your domain and add more domains if your plan allows it. - screenshots for domain setup
+		Subdomain management - Here you can see your subdomains and add more subdomains if your plan allows it. - screenshots for subdomain setup
+		DNS management - Here you can see your DNS and edit the DNS of your domain. - screenshots for DNS management
+		SSL Certificates - Here you can see your SSL certificates and add more SSL certificates. - screenshots for SSL certificates
+		FTP Management - Here you can see your FTP details and create more FTP accounts. - screenshots for FTP management
+		Databases - Here you can see your databases and create more databases. - screenshots for databases
+		Site Redirection - Here you can see your site redirection and add more site redirections. - screenshots for site redirection
+		Hotlink Protection - Here you can see your hotlink protection and add more hotlink protection. - screenshots for hotlink protection
+		PHP Settings - Here you can see your PHP settings and edit your PHP settings. - screenshots for PHP settings
+		E-Mail Accounts - Here you can see your email accounts and add more email accounts. - screenshots for E-Mail accounts
+		Auto Responders - Here you can see your auto responders and add more auto responders. - screenshots for auto responders
+		Vacation Messages - Here you can see your vacation messages and add more vacation messages. - screenshots for vacation messages
+		Spamasassin - Here you can see your spamasassin and edit your spamasassin. - screenshots for spamasassin
+		SPAM Filters - Here you can see your spam filters and edit your spam filters. - screenshots for spam filters
+		MX Records - Here you can see your MX records and edit your MX records. - screenshots for MX records
+		E-mail Tracking - Here you can see your email tracking and edit your email tracking. - screenshots for email tracking
+		IMAPSync Migration - Here you can see your IMAPSync Migration and edit your IMAPSync Migration. - screenshots for IMAPSync Migration
+		Apache Handlers - Here you can see your Apache Handlers and edit your Apache Handlers. - screenshots for Apache Handlers
+		Create/Restore Backups - Here you can see your backups and restore backups. - screenshots for Create/Restore Backups
+		Custom Error Pages - Here you can see your custom error pages and edit your custom error pages. - screenshots for custom error pages
+		Mime Types - Here you can see your mime types and edit your mime types. - screenshots for mime types
+		Login Key - Here you can see your login key and edit your login key. - screenshots for login key
+		Two-Step Authentication - Here you can see your two-step authentication and edit your two-step authentication. - screenshots for two-step authentication
+		Password Protected Directories - Here you can see your password protected directories and edit your password protected directories. - screenshots for password protected directories
+		ModSecurity - Here you can see your ModSecurity and edit your ModSecurity. - screenshots for ModSecurity
+		Nginx URL Rewrite - Here you can see your Nginx URL Rewrite and edit your Nginx URL Rewrite. - screenshots for Nginx URL Rewrite
+		File Manager - Here you can see your file manager and edit your file manager. - screenshots for file manager
+		Installed Perl Modules - Here you can see your installed perl modules and edit your installed perl modules. - screenshots for installed perl modules
+		Site Summary/Statistics/Logs - Here you can see your site summary, statistics, and logs. - screenshots for site summary/statistics/logs
+		Resource Limits - Here you can see your resource limits and edit your resource limits. - screenshots for resource limits
+		Webmail: Roundcube - Here you can see your webmail and go to the roundcube site. - screenshots for webmail: roundcube
+		PHPMyAdmin - Here you can see your databases and go to the PHPMyAdmin site. - screenshots for PHPMyAdmin
+
+	Sidebar
+		Menu (All of these are quick links)
+			Account Manager - Here you can see your account manager and edit your account manager. - screenshots for account manager
+			E-mail Manager - Here you can see your email manager and edit your email manager. - screenshots for email manager
+			Advanced Features - Here you can see your advanced features and edit your advanced features. - screenshots for advanced features
+			System info & Files - Here you can see your system info and files and edit your system info and files. - screenshots for system info & files
+			extra features - Here you can see your extra features and edit your extra features. - screenshots for extra features
+		Messages
+			Here you can see differernt system messages
+		Profile
+			Password changer - Here you can see your password changer and edit your password changer. - screenshots for password changer
+			Active Sessions - Here you can see your active sessions and edit your active sessions. - screenshots for active sessions
+		Skin Options
+			Layout (Skin)
+			Dark mode (Auto, Enabled, or Disabled)
+			Language (default English)
+			Date Formats
+			Week start day (default monday)

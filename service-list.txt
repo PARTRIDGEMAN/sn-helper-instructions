@@ -1,0 +1,1 @@
+Service List (Current Services at staticnode.org) Minecraft Hosting (Using Pterodactyl Panel with custom addons such as modpack installers version installers and more see more info under the Pterodactyl Panel info section), Web Hosting (Using DirectAdmin), and bot hosting (using pterodactyl panel)
